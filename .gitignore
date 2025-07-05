@@ -1,3 +1,4 @@
 venv
 *.txt
 mosdac_downloaded_content
+mosdac_extracted_text
